@@ -1,7 +1,7 @@
 import geo.utils as utils
 
 a, b = 3, 4
-c = utils.hypotenuse(a, b)
+c = utils.pytagoras(a, b)
 print('c =', c)
 
 r = 10
